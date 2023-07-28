@@ -1,2 +1,2 @@
 # FYP
-final year shit
+final year project
